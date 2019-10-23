@@ -10,3 +10,6 @@ fully realised.
 Now that I find myself in a situation where I don't have an optical drive anywhere, but still need to use optical discs
 from time to time I thought it would be useful to write support for apples remote disc functionality serving from a
 linux system.
+
+[Installation](INSTALL.md)
+[API](API.md)
