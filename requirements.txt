@@ -1,0 +1,14 @@
+cheroot==8.2.1
+CherryPy==18.3.0
+ifaddr==0.1.6
+jaraco.functools==2.0
+more-itertools==7.2.0
+munch==2.3.2
+pkg-resources==0.0.0
+portend==2.5
+python-jsonrpc==0.10.0
+pytz==2019.3
+six==1.12.0
+tempora==1.14.1
+zc.lockfile==2.0
+zeroconf==0.23.0

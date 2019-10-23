@@ -1,0 +1,25 @@
+.\" Manpage for pyods.
+.\" Contact karl@qdh.org.uk to correct errors or typos.
+.TH man 8 "23 October 2019" "0.1" "pyods man page"
+.SH NAME
+pyods \- Run a Remote Disc service for images and cd/dvd/bluray drives for Mac OS Finder clients
+.SH SYNOPSIS
+pyods
+.SH DESCRIPTION
+pyods is an online disk server compatible with Apple's Remote Disc service. Providing a server side component allowing Linux servers to share disk images and optical drives to remote Mac OS clients.
+.SH OPTIONS
+The pyods daemon does not take any options.
+.SH CONFIGURATION
+pyods uses a config file located usually in /etc/pyods/config.json, the file format is JSON, this file is used to describe the image root path
+
+    Example:
+    {
+        "root": "/mnt/images"
+    }
+
+pyods is configured to start on boot with systemd
+
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Karl Lattimer (karl@qdh.org.uk)

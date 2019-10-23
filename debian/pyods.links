@@ -1,0 +1,2 @@
+/opt/venvs/pyods/bin/pyods  /usr/bin/pyods
+/opt/venvs/pyods/config/config.json /etc/pyods/config.json

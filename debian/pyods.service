@@ -1,0 +1,13 @@
+[Unit]
+Description=PyODS
+After=network-online.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+ExecStart=/usr/bin/pyods
+User=nobody
+
+[Install]
+WantedBy=multi-user.target
