@@ -1,4 +1,9 @@
-$header-bg-color: #200122;
-$header-bg-color-secondary: #6f0000;
+---
+---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-color: #6f0000;
+  background-image: linear-gradient(120deg, #200122, #6f0000);
+}
