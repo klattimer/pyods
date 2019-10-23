@@ -1,3 +1,5 @@
+[Home](README.md)
+
 # Installation
 
 If you're using debian/raspbian/ubuntu installation is easiest via a .deb package.

@@ -11,5 +11,5 @@ Now that I find myself in a situation where I don't have an optical drive anywhe
 from time to time I thought it would be useful to write support for apples remote disc functionality serving from a
 linux system.
 
- [Installation](INSTALL.md)
- [API](API.md)
+  [Installation](INSTALL.md)
+  [API](API.md)
