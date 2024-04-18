@@ -1,4 +1,10 @@
 # PyODS
+
+## ARCHIVED
+
+As apple no longer uses ODS for disk sharing this project is now obsolete. I leave it here as a study in how to do some stuff for programmers to learn from, and tinkerers who need to share a CD drive with a laptop running an old version of Mac OS to achieve their goals. 
+
+
 ### An Online Disk Server written in python
 
 The Python Online Disk Server allows you to serve cd/dvd/bluray optical drives and iso images to multiple Mac OS
